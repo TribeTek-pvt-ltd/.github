@@ -24,7 +24,7 @@ We're here to empower startups and businesses to unlock their full potential and
 
 ### 🚀 Recent Commits
 <!-- Use GitHub Actions to automatically update this section with the latest commits -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tribetek-pvt-ltd&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TribeTek-pvt-ltd&theme=radical)](https://git.io/streak-stats)
 
 ---
 
