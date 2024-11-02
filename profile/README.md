@@ -13,14 +13,14 @@ We're here to empower startups and businesses to unlock their full potential and
 - **Industry**: Information Services
 - **Company Size**: 2-10 employees
 - **Founded**: 2024
-- **Specialties**: SaaS, Web Development, UI/UX, Software Development, App Development, Software as a Service (SaaS), MERN, and MEAN Stack.
+- **Specialties**: Web Development, UI/UX, Software Development, App Development, Software as a Service (SaaS), MERN.
 
 ---
 
 ## 📈 GitHub Stats & Activity
 
-![GitHub Repo Stats](https://github-readme-stats.vercel.app/api?username=tribetek-pvt-ltd&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tribetek-pvt-ltd&layout=compact&theme=radical)
+![GitHub Repo Stats](https://github-readme-stats.vercel.app/api?username=org/tribetek-pvt-ltd&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=org/tribetek-pvt-ltd&layout=compact&theme=radical)
 
 ### 🚀 Recent Commits
 <!-- Use GitHub Actions to automatically update this section with the latest commits -->
