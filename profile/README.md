@@ -39,11 +39,6 @@ Cross-platform mobile applications that provide seamless functionality and outst
 ### 🛠 Custom SaaS Solutions
 Whether you need a customized solution or want to explore our SaaS offerings, we design scalable, user-focused SaaS products for every unique business need.
 
-### 🔒 Cybersecurity
-Safeguard your digital assets with advanced security measures and proactive threat management.
-
-### 📊 Data Analytics
-Get data-driven insights to make informed decisions and optimize your business operations.
 
 ---
 
